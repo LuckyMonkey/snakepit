@@ -1,5 +1,7 @@
 # Snakepit — Full Runbook / Design Specification
 
+![Snakepit](snakepit.png)
+
 **Project:** Aspartame Linux
 **Subsystem:** Snakepit
 **Status:** Architecture / implementation specification
